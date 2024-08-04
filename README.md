@@ -1,6 +1,11 @@
-# ExtensionStarterWithNg
+<h1 style="text-align: center">
+Browser Extension Starter With Ng
+</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.3.
+一个支持使用Angular 开发的浏览器插件开发模板, 支持 Chrome 和 Edge 浏览器, 默认为 side panel
+
+An Angular-based browser extension development template that supports both Chrome and Edge browsers
+
 
 ## Development server
 
